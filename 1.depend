@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1445886892 source:c:\users\adrian\desktop\1\main.cpp
+	<iostream>
+	"Game.h"
+
+1445983558 c:\users\adrian\desktop\1\include\game.h
+	"Player.h"
+
+1445983920 c:\users\adrian\desktop\1\include\player.h
+	<string>
+	"Unit.h"
+	"Board.h"
+
+1445984267 c:\users\adrian\desktop\1\include\board.h
+	<vector>
+	"Field.h"
+
+1445979577 c:\users\adrian\desktop\1\include\field.h
+	<string>
+	"Unit.h"
+
+1445984242 c:\users\adrian\desktop\1\include\unit.h
+	<string>
+	"Field.h"
+
+1446018512 source:c:\users\adrian\desktop\1\src\board.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cmath>
+	"Board.h"
+
+1446010772 source:c:\users\adrian\desktop\1\src\field.cpp
+	"Field.h"
+	"Player.h"
+
+1446019015 source:c:\users\adrian\desktop\1\src\game.cpp
+	"Game.h"
+
+1446019298 source:c:\users\adrian\desktop\1\src\player.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Player.h"
+
+1445983921 source:c:\users\adrian\desktop\1\src\unit.cpp
+	<string>
+	"Unit.h"
+	"Player.h"
+
+1445886892 source:g:\dysk+precision\std\s3\pobi\ja\1\main.cpp
+	<iostream>
+	"Game.h"
+
+1446227504 g:\dysk+precision\std\s3\pobi\ja\1\include\game.h
+	"Player.h"
+
+1446232256 g:\dysk+precision\std\s3\pobi\ja\1\include\player.h
+	<string>
+	"Board.h"
+	"Unit.h"
+
+1446228077 g:\dysk+precision\std\s3\pobi\ja\1\include\unit.h
+	<string>
+	"Field.h"
+
+1446208441 g:\dysk+precision\std\s3\pobi\ja\1\include\field.h
+	<string>
+	"Unit.h"
+
+1446227504 g:\dysk+precision\std\s3\pobi\ja\1\include\board.h
+	<vector>
+	"Field.h"
+
+1446225173 source:g:\dysk+precision\std\s3\pobi\ja\1\src\board.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cmath>
+	"Board.h"
+
+1446227146 source:g:\dysk+precision\std\s3\pobi\ja\1\src\field.cpp
+	"Field.h"
+
+1446232501 source:g:\dysk+precision\std\s3\pobi\ja\1\src\game.cpp
+	"Game.h"
+
+1446232439 source:g:\dysk+precision\std\s3\pobi\ja\1\src\player.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Player.h"
+
+1446228077 source:g:\dysk+precision\std\s3\pobi\ja\1\src\unit.cpp
+	<string>
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<vector>
+	"Unit.h"
+
+1445886892 source:c:\users\adrian\desktop\t\main.cpp
+	<iostream>
+	"Game.h"
+
+1446242729 c:\users\adrian\desktop\t\include\game.h
+	"Player.h"
+
+1446290698 c:\users\adrian\desktop\t\include\player.h
+	<string>
+	<fstream>
+	"Board.h"
+	"Unit.h"
+
+1446227504 c:\users\adrian\desktop\t\include\board.h
+	<vector>
+	"Field.h"
+
+1446208441 c:\users\adrian\desktop\t\include\field.h
+	<string>
+	"Unit.h"
+
+1446242729 c:\users\adrian\desktop\t\include\unit.h
+	<string>
+	"Field.h"
+
+1446285894 source:c:\users\adrian\desktop\t\src\board.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cmath>
+	"Board.h"
+
+1446242729 source:c:\users\adrian\desktop\t\src\field.cpp
+	"Field.h"
+
+1446232501 source:c:\users\adrian\desktop\t\src\game.cpp
+	"Game.h"
+
+1446280487 source:c:\users\adrian\desktop\t\src\unit.cpp
+	<string>
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<vector>
+	"Unit.h"
+
+1446290675 source:c:\users\adrian\desktop\t\src\player.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Player.h"
+
+1445886892 source:c:\users\adrian\desktop\gra\main.cpp
+	<iostream>
+	"Game.h"
+
+1446242729 c:\users\adrian\desktop\gra\include\game.h
+	"Player.h"
+
+1446295133 c:\users\adrian\desktop\gra\include\player.h
+	<string>
+	<fstream>
+	"Board.h"
+	"Unit.h"
+
+1446227504 c:\users\adrian\desktop\gra\include\board.h
+	<vector>
+	"Field.h"
+
+1446208441 c:\users\adrian\desktop\gra\include\field.h
+	<string>
+	"Unit.h"
+
+1446242729 c:\users\adrian\desktop\gra\include\unit.h
+	<string>
+	"Field.h"
+
+1446242729 source:c:\users\adrian\desktop\gra\src\field.cpp
+	"Field.h"
+
+1446232501 source:c:\users\adrian\desktop\gra\src\game.cpp
+	"Game.h"
+
+1446295133 source:c:\users\adrian\desktop\gra\src\player.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	"Player.h"
+
+1446280487 source:c:\users\adrian\desktop\gra\src\unit.cpp
+	<string>
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<vector>
+	"Unit.h"
+
+1446295223 source:c:\users\adrian\desktop\gra\src\board.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cmath>
+	"Board.h"
+
